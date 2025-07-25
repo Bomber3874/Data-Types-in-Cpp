@@ -2,6 +2,9 @@
 
 # AIM- To study and implement c++ program structures(data types).
 
+# Software Used
+Visual Studio Code
+
 # Theory: 
 Understanding and Comparing Basic Data Types in C++
 
@@ -102,3 +105,7 @@ long double
     Size: 8, 12, or 16 bytes (platform/compiler dependent)
 
     Higher precision than double, but not always significantly
+
+# Conclusion
+
+In this experiment, we studied and implemented various basic data types available in C++. Each data type serves a specific purpose and comes with distinct size and value ranges that can vary based on the system architecture and compiler. Understanding these characteristics is essential for writing efficient and error-free programs. By analyzing sizes and limits through a C++ program, we gain practical insight into memory usage and type selection, which is fundamental in system-level programming and performance-critical applications.
